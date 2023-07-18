@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"00529bddfb444aa3","x":-96,"y":-160,"width":120,"height":60,"color":"6","type":"text","text":"graphQL"},
+		{"type":"text","text":"**back-end**","id":"7089b06799e4ecc2","x":-96,"y":100,"width":125,"height":60,"color":"4"},
+		{"id":"25763dda186cd9c1","x":220,"y":-440,"width":250,"height":60,"type":"text","text":"Dashboard"},
+		{"id":"957595ebdb67a312","x":-101,"y":-440,"width":125,"height":60,"color":"5","type":"text","text":"**front-end**"},
+		{"id":"afd667a8c7bbb57d","x":220,"y":-280,"width":250,"height":60,"type":"text","text":"store genirator"},
+		{"type":"text","text":"30minshop user","id":"dd0e9995a7127f6e","x":-1080,"y":-380,"width":180,"height":50,"color":"6"},
+		{"id":"51dd8433d3211b3c","x":-740,"y":-385,"width":120,"height":60,"type":"text","text":"next auth"},
+		{"id":"97f4953d80ab1af8","x":-480,"y":-380,"width":80,"height":55,"type":"text","text":"app"}
+	],
+	"edges":[
+		{"id":"8846f8b416737986","fromNode":"957595ebdb67a312","fromSide":"right","toNode":"25763dda186cd9c1","toSide":"left","toEnd":"none"},
+		{"id":"9b08e1f1b7ad882e","fromNode":"957595ebdb67a312","fromSide":"right","toNode":"afd667a8c7bbb57d","toSide":"left","toEnd":"none"},
+		{"id":"e34cf485ec3050a3","fromNode":"957595ebdb67a312","fromSide":"bottom","toNode":"00529bddfb444aa3","toSide":"top","fromEnd":"arrow","label":"query apis"},
+		{"id":"432094ce776ce2f7","fromNode":"00529bddfb444aa3","fromSide":"bottom","toNode":"7089b06799e4ecc2","toSide":"top","fromEnd":"arrow"},
+		{"id":"a65f6c196550cee3","fromNode":"dd0e9995a7127f6e","fromSide":"right","toNode":"51dd8433d3211b3c","toSide":"left"},
+		{"id":"dde6c9f914a1107a","fromNode":"51dd8433d3211b3c","fromSide":"right","toNode":"97f4953d80ab1af8","toSide":"left"},
+		{"id":"e3fe7cb4da62a1b2","fromNode":"97f4953d80ab1af8","fromSide":"right","toNode":"957595ebdb67a312","toSide":"left"}
+	]
+}

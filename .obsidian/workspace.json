@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "065ca9b8008f1bdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "59ee59e7c964ff1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf08f709828d6aa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tchisama.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69740ab5da2e2bc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc7c3c681add2b2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/30minshop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f77c09e4a7f9a1d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "store creation 30minshop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df5fa9ada3104ccf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "properties to ui inputs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5e7ed2312d3d121",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "typescript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3424dfa094d730d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GraphQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc9836fcdf157015",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fa07547fbbb5d99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ee92d974abdcdc5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f5a16f6abd001745",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6dc88375a5fa2f89",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "aa09799a3776a214",
+    "type": "split",
+    "children": [
+      {
+        "id": "b52545c7ecb1069a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c812484fabe3c167",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "properties to ui inputs.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d5786310606dcc4c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "properties to ui inputs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fd9fbac2fdb4bbeb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1c52bdacd4097c23",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "properties to ui inputs.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "df5fa9ada3104ccf",
+  "lastOpenFiles": [
+    "store creation 30minshop.md",
+    "properties to ui inputs.md",
+    "projects/30minshop.md",
+    "Projects.md",
+    "typescript.md",
+    "typescript-react.md",
+    "GraphQL.md",
+    "Tchisama.md",
+    "30MINSHOP.canvas",
+    "WEB DEV😇.md",
+    "TCHISAMA.canvas",
+    "mongodb.md",
+    "apollo.md",
+    "learning/react ⚛.md",
+    "python.md",
+    "payment integration 30minshop.md",
+    "learning/nextjs.md",
+    "express.md",
+    "daily notes/2023-07-16.md",
+    "MNE crud example.md",
+    "next auth.md",
+    "nodejs.md",
+    "deisy ui.md",
+    "front-end 30minshop.md",
+    "daily notes",
+    "projects/Untitled.md",
+    "back-end 30minshop.md",
+    "web hosting 30minshop.md",
+    "Domain Name 30minshop.md",
+    "projects",
+    "learning"
+  ]
+}
