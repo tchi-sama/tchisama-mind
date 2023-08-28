@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects.md",
+                "file": "async functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/30minshop.md",
+                "file": "back-end 30minshop.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "aa09799a3776a214",
@@ -159,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "properties to ui inputs.md",
+                "file": "back-end 30minshop.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -176,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "properties to ui inputs.md",
+                "file": "back-end 30minshop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "properties to ui inputs.md"
+                "file": "back-end 30minshop.md"
               }
             }
           }
@@ -220,12 +219,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df5fa9ada3104ccf",
+  "active": "bc7c3c681add2b2a",
   "lastOpenFiles": [
+    "projects/30minshop.md",
+    "async functions.md",
+    "front-end 30minshop.md",
+    "Projects.md",
     "store creation 30minshop.md",
     "properties to ui inputs.md",
-    "projects/30minshop.md",
-    "Projects.md",
     "typescript.md",
     "typescript-react.md",
     "GraphQL.md",
@@ -245,12 +246,10 @@
     "next auth.md",
     "nodejs.md",
     "deisy ui.md",
-    "front-end 30minshop.md",
     "daily notes",
     "projects/Untitled.md",
     "back-end 30minshop.md",
     "web hosting 30minshop.md",
-    "Domain Name 30minshop.md",
     "projects",
     "learning"
   ]
